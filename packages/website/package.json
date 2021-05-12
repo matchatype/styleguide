@@ -26,7 +26,7 @@
     "@auth0/styleguide-react-components": "^1.0.0",
     "babel-polyfill": "^6.16.0",
     "charming": "^1.0.1",
-    "codemirror": "^5.19.0",
+    "codemirror": "^5.58.2",
     "highlight.js": "^9.7.0",
     "jump.js": "^1.0.1",
     "react": "^15.3.2",
